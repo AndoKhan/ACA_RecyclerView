@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public void onRemove(int position) {
-
+            // TODO remove item
         }
     };
 
